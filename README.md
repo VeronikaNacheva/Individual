@@ -1,3 +1,4 @@
 # Individual
-Repo made for exercise
-We resolve the conflict!
+This project will contain...
+Repository made for exercises.
+Hello, again!!!
